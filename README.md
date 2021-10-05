@@ -1,6 +1,6 @@
 # Usb Ble Dongle
 
-An RN4871 based usb dongle.
+An RN4871 based usb dongle. The usb interface is implemented by a CP2102N USB-to-UART device.
 
 ## Features
 
