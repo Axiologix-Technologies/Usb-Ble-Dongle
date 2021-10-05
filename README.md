@@ -37,6 +37,8 @@ Pin Number | Pin | Column C
 
 ## Additional Documentation
 
-![]()
-![RN4870/71 Bluetooth Low Energy Module User's Guide]()
+![RN4870/71 Data sheet](https://www.microchip.com/content/dam/mchp/documents/WSG/ProductDocuments/DataSheets/RN4870-71-Data-Sheet-DS50002489E.pdf)
+
+![RN4870/71 Bluetooth Low Energy Module User's Guide](https://ww1.microchip.com/downloads/en/DeviceDoc/RN4870-71-Bluetooth-Low-Energy-Module-User-Guide-DS50002466C.pdf)
+
 ![Wiki](https://github.com/Axiologix-Technologies/Usb-Ble-Dongle/wiki)
